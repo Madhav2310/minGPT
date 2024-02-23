@@ -1,2 +1,2 @@
 # minGPT
-A simple GPT pre-train extending a Shakespearean script
+A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
